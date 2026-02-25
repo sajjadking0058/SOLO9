@@ -1,0 +1,105 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "message": "We are currently updating our servers. Please check back later. Follow us on Telegram for updates.",
+    "background_color": "#FF0000"
+  },
+  "credentials": [
+    {
+      "username": "MK CHEAT",
+      "password": "CRACKED BY MK",
+      "expire_date": "2026-05-05",
+      "device_limit": 9999
+    },
+    {
+      "username": "maxx3611",
+      "password": "maxx123",
+      "expire_date": "2026-02-23",
+      "device_limit": 3
+    },
+    {
+      "username": "Emilov966",
+      "password": "Emilov966",
+      "expire_date": "2026-3-25",
+      "device_limit": 1
+    },
+    {
+      "username": "user1",
+      "password": "pass1",
+      "expire_date": "2026-06-30",
+      "device_limit": 1
+    },
+    {
+      "username": "mirza",
+      "password": "mirza123",
+      "expire_date": "2026-03-25",
+      "device_limit": 3
+    },
+    {
+      "username": "irfan",
+      "password": "irfan123",
+      "expire_date": "2026-03-05",
+      "device_limit": 3
+    },
+    {
+      "username": "Happybirthdayme",
+      "password": "Happybirthdayme",
+      "expire_date": "2025-02-24",
+      "device_limit": 100
+    },
+    {
+      "username": "KY",
+      "password": "KY",
+      "expire_date": "2030-03-25",
+      "device_limit": 3
+    },
+    {
+      "username": "KM",
+      "password": "KM",
+      "expire_date": "2026-02-24",
+      "device_limit": 1
+    },
+    {
+      "username": "KL",
+      "password": "Kl",
+      "expire_date": "2026-02-24",
+      "device_limit": 1
+    },
+    {
+      "username": "zubi",
+      "password": "zubi",
+      "expire_date": "2027-02-22",
+      "device_limit": 1
+    },
+    {
+      "username": "1daykey",
+      "password": "1daykey",
+      "expire_date": "2026-02-23",
+      "device_limit": 3
+    },
+    {
+      "username": "14dykey",
+      "password": "testpass",
+      "expire_date": "2025-10-25",
+      "device_limit": 1
+    },
+    {
+      "username": "firsttrythabuy",
+      "password": "firsttrythanbuy",
+      "expire_date": "2026-02-22",
+      "device_limit": 100
+    },
+    {
+      "username": "GoP",
+      "password": "GoP",
+      "expire_date": "2030-03-25",
+      "device_limit": 99
+    },
+    {
+      "username": "14aykey",
+      "password": "testpass",
+      "expire_date": "2025-10-25",
+      "device_limit": 1
+    }
+  ]
+}
