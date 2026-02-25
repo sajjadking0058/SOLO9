@@ -42,10 +42,10 @@
       "device_limit": 3
     },
     {
-      "username": "Happybirthdayme",
-      "password": "Happybirthdayme",
-      "expire_date": "2025-02-24",
-      "device_limit": 100
+      "username": "JANU",
+      "password": "JANU",
+      "expire_date": "3000-02-24",
+      "device_limit": 10022556644
     },
     {
       "username": "KY",
@@ -58,6 +58,12 @@
       "password": "KM",
       "expire_date": "2026-02-24",
       "device_limit": 1
+    },
+    {
+      "username": "KING",
+      "password": "KING",
+      "expire_date": "2026-03-30",
+      "device_limit": 1024
     },
     {
       "username": "KL",
