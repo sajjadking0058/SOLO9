@@ -18,16 +18,21 @@
       "device_limit": 3
     },
     {
-      "username": "Emilov966",
-      "password": "Emilov966",
-      "expire_date": "2026-3-25",
-      "device_limit": 1
+      "username": "3DAYSTRAIL",
+      "password": "3DAYSTRAIL",
+      "expire_date": "2026-2-29",
+      "device_limit": 100
     },
     {
       "username": "user1",
       "password": "pass1",
       "expire_date": "2026-06-30",
       "device_limit": 1
+    },
+    { "username": "TRYTHANBUY",
+      "password": "TRYTHANBUY",
+      "expire_date": "2026-2-28",
+      "device_limit": 100
     },
     {
       "username": "mirza",
