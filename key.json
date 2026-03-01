@@ -29,6 +29,12 @@
       "expire_date": "2026-06-30",
       "device_limit": 1
     },
+    {
+      "username": "3DAYTRAILBYJANU",
+      "password": "3DAYTRAILBYJANU",
+      "expire_date": "2026-3-2",
+      "device_limit": 1000
+    },
     { "username": "TRYTHANBUY",
       "password": "TRYTHANBUY",
       "expire_date": "2026-2-28",
